@@ -1,9 +1,6 @@
 # 🧠 **DeepSeek Code Companion**  
 🚀 **Your AI Pair Programmer with Debugging Superpowers**  
 
-![DeepSeek Banner](https://via.placeholder.com/1000x300?text=DeepSeek+Code+Companion)  
-<small>*[Replace this with an actual banner to enhance visual appeal!]*</small>
-
 ---
 
 ### **🌟 About DeepSeek**  
